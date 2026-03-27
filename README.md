@@ -7,7 +7,9 @@
 Ride-hailing platforms generate massive booking data daily. Without proper analysis, peak demand hours go undetected, cancellations increase, and revenue opportunities are missed. This project analyzes 5,000+ Ola ride records to uncover operational patterns and support business decisions.
 
 ## Dashboard Preview
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](OLA1.png)
+![Dashboard Preview](OLA2.png)
+![Dashboard Preview](OLA3.png)
 
 ## Key Insights
 - Peak demand hours were **8–10 AM** and **6–9 PM** on weekdays
